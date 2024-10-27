@@ -1,0 +1,20 @@
+[
+    {
+        "recipeID": "671a9dced725d4a704462b02",
+        "name": "Apple",
+        "quantity": 2,
+        "unit": "pcs"
+    },
+    {
+        "recipeID": "671a9dced725d4a704462b02",
+        "name": "Flour",
+        "quantity": 200,
+        "unit": "g"
+    },
+    {
+        "recipeID": "671a9dced725d4a704462b02",
+        "name": "Egg",
+        "quantity": 2,
+        "unit": "pcs"
+    }
+]

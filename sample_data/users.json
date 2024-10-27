@@ -1,0 +1,30 @@
+[
+    {
+        "username": "Yazvinskaya",
+        "email": "yaz19001@byui.edu",
+        "password": "",
+        "birthday": "1998-07-22",
+        "authType": "local"
+    },
+    {
+        "username": "Kudasova",
+        "email": "kud18230@byui.edu",
+        "password": "",
+        "birthday": "1990-10-22",
+        "authType": "local"
+    },
+    {
+        "username": "Romanova",
+        "email": "rom19765@byui.edu",
+        "password": "",
+        "birthday": "1988-02-09",
+        "authType": "local"
+    },
+    {
+        "username": "Loginova",
+        "email": "log18003@byui.edu",
+        "password": "",
+        "birthday": "1993-12-20",
+        "authType": "local"
+    }
+]

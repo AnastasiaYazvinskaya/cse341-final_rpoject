@@ -1,0 +1,27 @@
+{
+  "name": "cse341-final_rpoject",
+  "version": "1.0.0",
+  "description": "My final project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnastasiaYazvinskaya/cse341-final_project.git"
+  },
+  "author": "Anastasia Yazvinskaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnastasiaYazvinskaya/cse341-final_project/issues"
+  },
+  "homepage": "https://github.com/AnastasiaYazvinskaya/cse341-final_project#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "express-validator": "^7.2.0",
+    "mongodb": "^6.10.0",
+    "swagger-autogen": "^2.23.7",
+    "swagger-ui-express": "^5.0.1"
+  }
+}

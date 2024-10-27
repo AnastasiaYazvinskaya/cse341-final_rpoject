@@ -1,0 +1,14 @@
+[
+    {
+        "authorID": "671a9dabd725d4a704462afd",
+        "title": "Recipe #1",
+        "description": "Here should be steps",
+        "servings": 4,
+        "time": "30 min",
+        "createdAt": "2024-01-01",
+        "updatedAt": "2024-01-01",
+        "cuisineType": "Russian",
+        "mealType": "dinner",
+        "keyWords": ["dinner", "russian"]
+    }
+]
